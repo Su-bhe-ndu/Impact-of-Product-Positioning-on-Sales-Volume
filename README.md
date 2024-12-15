@@ -1,7 +1,16 @@
 # Impact-of-Product-Positioning-on-Sales-Volume
 
 ## Table of Content
-
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
 
 ### Project Overview
 In today's competitive retail environment, understanding the factors influencing sales volume is crucial for maximizing revenue and ensuring business success. One such factor is product positioning within a store. This project aims to explore and quantify the effect of product positioning on sales volume. Using a dataset with variables such as product price, competitor's price, promotional activities, foot traffic, consumer demographics, product category, and seasonality, the project seeks to:
